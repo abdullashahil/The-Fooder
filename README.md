@@ -7,6 +7,7 @@ Desktop Prototype: https://www.figma.com/proto/8Ix9cmN4xHQOofACE98Orx/Food-websi
 Mobile Prototype: https://www.figma.com/proto/eXicOukCrK3tVxyd5ikuWk/Food-website-mobile?type=design&node-id=1-4&t=F7457QTF3IDluny9-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A4&mode=design
 
 
+
 b. Walk-through video (link) covering both design views
 
 Part 1 (Desktop): https://www.loom.com/share/e8404c25da22484ca5afe43114202f2e?sid=f7de7b1c-c630-4c56-8a29-a0b0e8039722
