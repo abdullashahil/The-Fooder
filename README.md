@@ -3,6 +3,7 @@
 a. Link to the High-fid Figma prototypes (both desktop and mobile views)
 
 Desktop Prototype: https://www.figma.com/proto/8Ix9cmN4xHQOofACE98Orx/Food-website-desktop?type=design&node-id=1-2&t=We6bcJhmq9avKRpP-1&scaling=contain&page-id=0%3A1&mode=design
+
 Mobile Prototype: https://www.figma.com/proto/eXicOukCrK3tVxyd5ikuWk/Food-website-mobile?type=design&node-id=1-4&t=F7457QTF3IDluny9-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A4&mode=design
 
 
